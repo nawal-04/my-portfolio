@@ -1,0 +1,8 @@
+This is a placeholder for the actual CV PDF file. In a real implementation, you would place Nawal Wahdan's actual CV PDF file here. The file should be named "Nawal_Wahdan_CV.pdf" and placed in the assets directory.
+
+Since we cannot generate binary files, you would need to:
+1. Create the assets directory
+2. Place the actual CV PDF file there
+3. Ensure the filename matches exactly: "Nawal_Wahdan_CV.pdf"
+
+The download functionality in the HTML will automatically work once the file is properly placed.
